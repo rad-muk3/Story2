@@ -1,1 +1,2 @@
 This is a story about how to create branches.
+Now that we are branched from master, lets see what happens.
